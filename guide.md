@@ -20,7 +20,6 @@ Le modèle open source se rappproche le plus d'une éthique des données, mais i
 
 1. Pourquoi une application de messagerie a besoin de connaître ma date de naissance ?
 2. Pourquoi il est obligatoire d'entrer son numéro de cellulaire dans un compte d'e-commerce ?
-3. Comment 
 
 Ces questions sont au coeur de la réflexion de l'utilisation des services du web, de leur influence sur nos pratiques et même de la sécurité de nos données. Il est essentiel de comprendre la multitude de moyens visants à collecter des informations profitables.
 
