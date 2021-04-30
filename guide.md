@@ -363,9 +363,7 @@ Bien qu'un courriel ne soit pas une option idéale, on peut améliorer sa sécur
 
 Des services proposent de créer des alis à son courriel principal.
 
-* ✔️ [Simplelogin](simplelogin.io): Service dirigé vers la confidentialité et la sécurité en Allemagne, plusieurs options d'alias et d'un calendrier privé.
-
-
+* ✔️ [Simplelogin](https://simplelogin.io)
 
 
 	* ⚠️ Lors d'une brèche de sécurité depuis un service en ligne, avoir un alias au lieu de son courriel principal permet de réduire la surface d'attaque et ainsi que de protéger son identité.
