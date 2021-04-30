@@ -300,6 +300,10 @@ Choisir une solution d'hébergement en ligne, c'est faire confiance à un tier g
 
 ## Plateformes collaboratives
 
+* ❌ Google docs, Sharepoint... enregistrent et ont un droit de regard sur les données émises.
+
+* ✔️ [Cryptpad](cryptpad.fr)
+* ✔️ [Etherpad.org](etherpad.org)
 * ✔️ [Mattermost](https://mattermost.com/) 
 
 
