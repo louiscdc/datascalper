@@ -94,7 +94,7 @@ Il est préférable de choisir un router compatible avec un firewall réputé:
 ### [Protecli](https://protectli.com/)
 
 
-	* ⚠️ Les appareils Ubiquiti ne sont pas présentés car une (récente) [brèche](https://krebsonsecurity.com/2021/03/whistleblower-ubiquiti-breach-catastrophic/) met en question leur fiabilité. 
+	* ⚠️ Les appareils Ubiquiti ne sont pas présentés car une (récente) brèche (https://krebsonsecurity.com/2021/03/whistleblower-ubiquiti-breach-catastrophic/) met en question leur fiabilité. 
 
 
 ### Firewall
@@ -177,11 +177,11 @@ Paradoxalement à ce que l'imaginaire collectif semble penser, plusieurs distrib
 
 Les distributions présentées se spécialisent dans leurs caractèristiques: 
 
-* [QubesOS](https://www.qubes-os.org/): 
+* [QubesOS](https://www.qubes-os.org/): Système sous virtualisation, fonctionne en templates afin de séparer les tâches.
 
-* [Tails](https://tails.boum.org/): Système portable, possibilité de chiffrement,  
+* [Tails](https://tails.boum.org/): Système portable, possibilité de chiffrement, sous le réseau Tor.  
 
-* [Whonix](https://www.whonix.org/): Système sous machines virtuelles
+* [Whonix](https://www.whonix.org/): Système sous machines virtuelles.
 
 
 # Navigateurs web
