@@ -346,25 +346,27 @@ Une solution fédérée permet à plusieurs entitées de se rejoindre malgré de
 
 ### Solutions
 
-Le courrier électronique n'a pas été conçu dans un souci de confidentialité ou de sécurité, bien qu'il se modernise depuis la généralisation du chiffrement. De plus, la boîte 
+Le courrier électronique n'a pas été conçu dans un souci de confidentialité ou de sécurité, bien qu'il se modernise depuis la généralisation du chiffrement. 
 
-
-* ❌  Gmail a donné aux développeurs tiers l'accès à l'API de la plate-forme, les entreprises et peuvent apprendre des informations sur vos habitudes de messagerie, vos achats, combien vous dépensez et qui vous êtes. Les données sont sensées êtres anonymisées, mais certains leaks ont démontré que non. 
-
-	* ⚠️ L'option 
+* ❌  Gmail a donné aux développeurs tiers l'accès à l'API de la plate-forme, les entreprises et peuvent apprendre des informations sur vos habitudes de messagerie, vos achats, combien vous dépensez et qui vous êtes. Les données sont sensées êtres anonymisées, mais certains leaks ont démontré que non.
 
 Bien qu'un courriel ne soit pas une option idéale, on peut améliorer sa sécurité et confidentialité en choisissant un service E2EE pour les utilisateurs de la même plateforme:
 
-* ✔️ [Protonmail](https://protonmail.com):
-* ✔️ [Tutanota](https:tutanota.com):  
+* ✔️ [Protonmail](https://protonmail.com): Service dirigé vers la confidentialité et la sécurité en Suisse.
+* ✔️ [Tutanota](https:tutanota.com): Service dirigé vers la confidentialité et la sécurité en Allemagne, plusieurs options d'alias et d'un calendrier privé.
 
 
-	* ⚠️ Si le destinaire ne possède pas le même hébergeur, le contenu du courriel ne sera pas E2EE, il reste possible d'ajouter un mot de passe à communiquer au destinataire pour qu'il puisse déchiffrer le message.
+	* ⚠️ Si le destinaire ne possède pas le même hébergeur (que les deux cités plus haut), le contenu du courriel ne sera pas E2EE, il reste possible d'ajouter un mot de passe à communiquer au destinataire pour qu'il puisse déchiffrer le message.
 
 
 ### Alias
 
-Des services proposent 
+Des services proposent de créer des alis à son courriel principal.
+
+* ✔️ [Simplelogin](simplelogin.io): Service dirigé vers la confidentialité et la sécurité en Allemagne, plusieurs options d'alias et d'un calendrier privé.
+
+
+
 
 	* ⚠️ Lors d'une brèche de sécurité depuis un service en ligne, avoir un alias au lieu de son courriel principal permet de réduire la surface d'attaque et ainsi que de protéger son identité.
 
@@ -404,9 +406,6 @@ Des services proposent
 
 ### Linux (*en développement*)
 * ✔️ [Unbuntu Touch](https://ubuntu-touch.io/)
-
-
-
 
 ## Market
 
