@@ -301,8 +301,8 @@ Choisir une solution d'hébergement en ligne, c'est faire confiance à un tier g
 
 * ❌ Google docs, Sharepoint... enregistrent et ont un droit de regard sur les données émises.
 
-* ✔️ [Cryptpad](cryptpad.fr)
-* ✔️ [Etherpad.org](etherpad.org)
+* ✔️ [Cryptpad](https://www.cryptpad.fr)
+* ✔️ [Etherpad.org](https://www.etherpad.org)
 * ✔️ [Mattermost](https://mattermost.com/) 
 
 
