@@ -125,7 +125,7 @@ Il est possible d'intégrer un VPN au router, mais il est recommandé d'en utili
 #### Wireguard config:
 
 * ✔️ Rapide
-* ❌ Moins privé, enregistre 9entre autre) l'IP dans le server VPN
+* ❌ Moins privé, enregistre entre autre l'IP dans le server VPN
 
 
 # Ordinateur
